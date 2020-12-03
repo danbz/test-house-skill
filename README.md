@@ -10,7 +10,6 @@ This is a test skill to ask the house about it's internal status
 * "What is the house status"
 * "What is the status of the house"
 * "What's going on in the house"
-* "What's going on with th"
 * "What's going on with the house"
 * "How is the house"
 * "What's up with the house"
