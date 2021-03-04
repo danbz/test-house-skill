@@ -1,6 +1,6 @@
-<speak>Each morning when I wake up, <prosody rate='x-slow'>I speak quite slowly and deliberately until I have my coffee.</prosody>.</speak>
-<speak>Each morning when I wake up, <prosody rate='x-fast'>I speak really fast after I have my coffee.</prosody>. </speak>
-<speak>Each morning when I wake up, <prosody pitch='x-high'>I speak really high pitched after I have my coffee.</prosody>. </speak>
-<speak>Each morning when I wake up, <prosody pitch='x-low'>I speak really low pitched before I have my coffee.</prosody></speak>
+<speak>Each morning when I wake up, <prosody rate='low'>I speak quite slowly and deliberately until I have my coffee.</prosody>.</speak>
+<speak>Each morning when I wake up, <prosody rate='high'>I speak really fast after I have my coffee.</prosody>. </speak>
+<speak>Each morning when I wake up, <prosody pitch='+5st'>I speak really high pitched after I have my coffee.</prosody>. </speak>
+<speak>Each morning when I wake up, <prosody pitch='-5st'>I speak really low pitched before I have my coffee.</prosody></speak>
 <speak>Each morning when I wake up, <prosody range='x-low'>I speak really low ranged before I have my coffee.</prosody></speak>
 <speak>Each morning when I wake up, <prosody range='x-high'>I speak really high ranged after I have my coffee.</prosody></speak>
