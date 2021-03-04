@@ -1,4 +1,4 @@
-./mimic -ssml "hi friends hey <prosody rate='.5' pitch='220' range='8'>hey hello</prosody> -- <range='0Hz' pitch='440Hz'>hi</prosody> friends."
+hi friends hey <prosody rate='.5' pitch='220' range='8'>hey hello</prosody> -- <range='0Hz' pitch='440Hz'>hi</prosody> friends.
 <speak>Each morning when I wake up, <prosody rate='low'>I speak quite slowly and deliberately until I have my coffee.</prosody></speak>
 <speak>Each morning when I wake up, <prosody rate='high'>I speak really fast after I have my coffee.</prosody>. </speak>
 <speak>Each morning when I wake up, <prosody pitch='+5st'>I speak really high pitched after I have my coffee.</prosody> </speak>
