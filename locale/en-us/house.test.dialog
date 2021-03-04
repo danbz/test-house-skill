@@ -4,6 +4,7 @@
 <prosody rate="x-fast">RATE FAST. The house is doing OK, </prosody> <prosody volume="x-loud">OK</prosody>
 <prosody rate="200%">RATE FAST percent. The house is doing OK, </prosody> 
 <prosody rate="50%">RATE SLOW percent. The house is doing OK, </prosody> 
+<speak>Each morning when I wake up, <prosody rate='x-slow'>I speak quite slowly and deliberately until I have my coffee.</prosody></speak>
 
 
    <s>I am speaking this at the default volume for this voice.</s>
