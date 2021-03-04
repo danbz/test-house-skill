@@ -1,12 +1,7 @@
 <prosody rate = x-slow">The house is </prosody><emphasis level="strong">just fine, thankyou</emphasis>
 <prosody pitch = "x-high">Everything in</prosody> the house is <emphasis level="moderate">good</emphasis>
 <prosody rate = "x-fast">The house is doing OK, </prosody> <prosody volume="x-loud">OK</prosody>
-<speak version="1.1"
-       xmlns="http://www.w3.org/2001/10/synthesis"
-       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:schemaLocation="http://www.w3.org/2001/10/synthesis
-                 http://www.w3.org/TR/speech-synthesis11/synthesis.xsd"
-       xml:lang="en-US">
+
 
    <s>I am speaking this at the default volume for this voice.</s>
 
@@ -17,4 +12,3 @@
    <s><prosody volume="-6dB">
        I am speaking this at approximately half the original signal amplitude.
    </prosody></s>
-</speak>
