@@ -1,18 +1,4 @@
-<prosody rate="x-slow">SLOW. The house is </prosody><emphasis level="strong">just fine, thankyou</emphasis>
-<prosody pitch="x-high">Pitch HIGH. Everything in</prosody> the house is <emphasis level="moderate">good</emphasis>
-<prosody pitch="x-low">Pitch LOW. Everything in</prosody> the house is <emphasis level="moderate">good</emphasis>
-<prosody rate="x-fast">RATE FAST. The house is doing OK, </prosody> <prosody volume="x-loud">OK</prosody>
-<prosody rate="200%">RATE FAST percent. The house is doing OK, </prosody> 
-<prosody rate="50%">RATE SLOW percent. The house is doing OK, </prosody> 
 <speak>Each morning when I wake up, <prosody rate='x-slow'>I speak quite slowly and deliberately until I have my coffee.</prosody></speak>
-
-
-   <s>I am speaking this at the default volume for this voice.</s>
-
-   <s><prosody volume="+6dB">
-       I am speaking this at approximately twice the original signal amplitude.
-   </prosody></s>
-
-   <s><prosody volume="-6dB">
-       I am speaking this at approximately half the original signal amplitude.
-   </prosody></s>
+<speak>Each morning when I wake up, <prosody rate='x-fast'>I speak really fast after I have my coffee.</prosody></speak>
+<speak>Each morning when I wake up, <prosody pitch='x-high'>I speak really high pitched after I have my coffee.</prosody></speak>
+<speak>Each morning when I wake up, <prosody pitch='x-low'>I speak really low pitched before I have my coffee.</prosody></speak>
