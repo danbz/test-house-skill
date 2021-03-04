@@ -1,3 +1,3 @@
-<prosody rate = x-xlow">The house is </prosody><emphasis level="strong">just fine, thankyou</emphasis>
+<prosody rate = x-slow">The house is </prosody><emphasis level="strong">just fine, thankyou</emphasis>
 <prosody pitch = "x-high">Everything in</prosody> the house is <emphasis level="moderate">good</emphasis>
 <prosody rate = "x-fast">The house is doing OK, </prosody> <emphasis level="moderate">OK</emphasis>
