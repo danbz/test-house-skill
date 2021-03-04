@@ -1,3 +1,3 @@
-The house is fine
-Everything in the house is good
-The house is doing OK
+The house is <emphasis level="moderate">fine</emphasis>
+<prosody pitch = "high">Everything in</prosody> the house is <emphasis level="moderate">good</emphasis>
+<prosody rate = "fast">The house is doing OK, </prosody> <emphasis level="moderate">OK</emphasis>
